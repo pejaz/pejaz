@@ -22,7 +22,7 @@
 
 ## 🔨 Languages and Tools :
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="42px" src= "./assets/javascript-original.svg"></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="42px" src= "./assets/javascript-original.svg">JavaScript</a>
 <a href="https://vuejs.org/" target="_blank"> <img align="left" alt="Vue" height="42px" src="./assets/vue.svg"></a>
 <a href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height="42px" src="./assets/react-original.svg"></a>
 <a href="https://www.typescriptlang.org/" target="_blank"><img align="left" alt="Typescirpt" height ="42px" src="./assets/typescript-original.svg"></a>
