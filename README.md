@@ -2,6 +2,7 @@
 <h3 align="center">A software developer from China</h3>
 
 <br/>
+<br/>
 
 ## 📅 Hobbies
 - Visit the technical community
@@ -33,26 +34,15 @@
 <a href="https://www.mongodb.com/" target="_blank"> <img src="./assets/mongodb.svg" align="left" alt="MongoDB" height='42px'/> </a>
 <a href="https://www.mysql.com/" target="_blank"> <img src="./assets/mysql-original.svg" align="left" alt="MySQL" height='42px'/> </a>
 <a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="./assets/python-original.svg"></a>
-<br>
-<span>JavaScript</span>
-<span>JavaScript</span>
-<span>JavaScript</span>
-<span>JavaScript</span>
-<span>JavaScript</span>
-<span>JavaScript</span>
-<span>JavaScript</span>
-<span>JavaScript</span>
-<span>JavaScript</span>
-<span>JavaScript</span>
-<span>JavaScript</span>
-<span>JavaScript</span>
-<br>
+
+<br/>
 
 ### 📊 Github Stats
 ![Stats Overview](https://github-readme-stats.vercel.app/api?username=candane&count_private=true&show_icons=true&include_all_commits=true)
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=candane&hide=TeX&layout=compact)
 
-<br>
+<br/>
+
 <!--
 **Candane/candane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
