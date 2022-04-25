@@ -29,12 +29,13 @@
 <a href="https://webpack.js.org/" target="_blank"><img align="left" alt="Webpack" height ="42px" src="./assets/webpack.svg"></a>
 <a href="https://koajs.com/" target="_blank"><img align="left" alt="Koa" height ="42px" src="https://koa.bootcss.com/public/images/koa-logo.png"></a>
 <a href="https://nestjs.com/" target="_blank"><img align="left" alt="Nest.js" height ="42px" src="./assets/nest-service.svg"></a>
-<a href="https://www.mongodb.com/" target="_blank"> <img src="./assets/mongodb.svg" align="left" alt="MongoDB" height='42px'/> </a>
-<a href="https://www.mysql.com/" target="_blank"> <img src="./assets/mysql-original.svg" align="left" alt="MySQL" height='42px'/> </a>
+<a href="https://www.mongodb.com/" target="_blank"> <img src="./assets/mongodb.svg" align="left" alt="MongoDB" height='42px'/></a>
+<a href="https://www.mysql.com/" target="_blank"> <img src="./assets/mysql-original.svg" align="left" alt="MySQL" height='42px'/></a>
 <a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="./assets/python-original.svg"></a>
 </p>
-  
 
+<br>
+<br>
 ### 📊 Github Stats
 
 ![Stats Overview](https://github-readme-stats.vercel.app/api?username=candane&count_private=true&show_icons=true&include_all_commits=true)  
