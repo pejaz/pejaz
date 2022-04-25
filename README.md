@@ -26,7 +26,7 @@
 <a href="https://vuejs.org/" target="_blank"> <img align="left" alt="Vue" height="42px" src="./assets/vue.svg"></a>
 <a href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height="42px" src="./assets/react-original.svg"></a>
 <a href="https://www.typescriptlang.org/" target="_blank"><img align="left" alt="Typescirpt" height ="42px" src="./assets/typescript-original.svg"></a>
-<a href="https://nodejs.org" target="_blank"><img align="left" alt="Node.js" height ="42px" src="./assets/node.svg"></a>
+<a href="https://nodejs.org" target="_blank"><img align="left" alt="Node.js" height ="42px" src="./assets/nodejs.svg"></a>
 <a href="https://vitejs.dev/" target="_blank"><img align="left" alt="Vite" height ="42px" src="https://vitejs.dev/logo.svg"></a>
 <a href="https://webpack.js.org/" target="_blank"><img align="left" alt="Webpack" height ="42px" src="./assets/webpack.svg"></a>
 <a href="https://koajs.com/" target="_blank"><img align="left" alt="Koa" height ="42px" src="https://koa.bootcss.com/public/images/koa-logo.png"></a>
