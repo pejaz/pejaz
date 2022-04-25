@@ -5,7 +5,6 @@
 ### 📅 Hobbies
 
 - Visit the technical community
-- Read some books about js
 - Watch anime And Travel Video
 - Play videogames
 - Listen to music.
@@ -13,6 +12,7 @@
 ### 😄 Talking about Personal Stuffs
 
 - 🌱 I'm currently into Web Development
+- 📖 Recently reading books on js
 - 🔭 working on my Data Structures and Algorithms
 - 🚀 In the future, I hope to become Full Stack Development.
 - ⚡ Interested in Go and Rust
