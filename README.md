@@ -4,7 +4,7 @@
 <br/>
 <br/>
 
-## 📅 Hobbies
+### 📅 Hobbies
 - Visit the technical community
 - Read some books about js
 - Watch anime And Travel Video
@@ -13,7 +13,7 @@
 
 <br/>
 
-## 😄 Talking about Personal Stuffs:
+### 😄 Talking about Personal Stuffs:
 - 🌱 I'm currently into Web Development
 - 🔭 working on my Data Structures and Algorithms
 - 🚀 In the future, I hope to become Full Stack Development.
@@ -21,7 +21,7 @@
 
 <br/>
 
-## 🔨 Languages and Tools :
+### 🔨 Languages and Tools :
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img align="left" alt="JavaScript" height ="42px" src= "./assets/javascript-original.svg"></a>
 <a href="https://vuejs.org/" target="_blank"> <img align="left" alt="Vue" height="42px" src="./assets/vue.svg"></a>
 <a href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height="42px" src="./assets/react-original.svg"></a>
@@ -38,7 +38,9 @@
 <br/>
 <br/>
 
-## 📊 Github Stats :
+
+### 📊 Github Stats :
+
 ![Stats Overview](https://github-readme-stats.vercel.app/api?username=candane&count_private=true&show_icons=true&include_all_commits=true)
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=candane&hide=TeX&layout=compact)
 
