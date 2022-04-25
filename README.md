@@ -22,7 +22,7 @@
 
 ## 🔨 Languages and Tools :
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="42px" src= "./assets/javascript-original.svg">JavaScript</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><div><p><img align="left" alt="JavaScript" height ="42px" src= "./assets/javascript-original.svg"></p><p>JavaScript</p></div></a>
 <a href="https://vuejs.org/" target="_blank"> <img align="left" alt="Vue" height="42px" src="./assets/vue.svg"></a>
 <a href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height="42px" src="./assets/react-original.svg"></a>
 <a href="https://www.typescriptlang.org/" target="_blank"><img align="left" alt="Typescirpt" height ="42px" src="./assets/typescript-original.svg"></a>
@@ -35,8 +35,15 @@
 <a href="https://www.mysql.com/" target="_blank"> <img src="./assets/mysql-original.svg" align="left" alt="MySQL" height='42px'/> </a>
 <a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="./assets/python-original.svg"></a>
 
-<br/>
+### 📊 Github Stats
+<a href='https://github.com/candane/github-stats-transparent'>
+  
+![Stats Overview](https://raw.githubusercontent.com/candane/github-stats-transparent/output/generated/overview.svg)
+![Most Used Languages](https://raw.githubusercontent.com/candane/github-stats-transparent/output/generated/languages.svg)
 
+</a>
+
+<br>
 <!--
 **Candane/candane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
