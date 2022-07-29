@@ -26,7 +26,7 @@
 <a href="https://nodejs.org" target="_blank"><img align="left" alt="Node.js" height ="42px" src="./assets/nodejs.svg"></a>
 <a href="https://vitejs.dev/" target="_blank"><img align="left" alt="Vite" height ="42px" src="https://vitejs.dev/logo.svg"></a>
 <a href="https://webpack.js.org/" target="_blank"><img align="left" alt="Webpack" height ="42px" src="./assets/webpack.svg"></a>
-<a href="https://koajs.com/" target="_blank"><img align="left" alt="Koa" height ="42px" src="https://koa.bootcss.com/public/images/koa-logo.png"></a>
+<a href="https://koajs.com/" target="_blank"><img align="left" alt="Koa" height ="42px" src="./assets/koa.svg"></a>
 <a href="https://nestjs.com/" target="_blank"><img align="left" alt="Nest.js" height ="42px" src="./assets/nest-service.svg"></a>
 <a href="https://www.mongodb.com/" target="_blank"> <img src="./assets/mongodb.svg" align="left" alt="MongoDB" height='42px'/></a>
 <a href="https://www.mysql.com/" target="_blank"> <img src="./assets/mysql-original.svg" align="left" alt="MySQL" height='42px'/></a>
