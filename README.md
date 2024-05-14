@@ -30,15 +30,14 @@
 <a href="https://nestjs.com/" target="_blank"><img align="left" alt="Nest.js" height ="42px" src="./assets/nest-service.svg"></a>
 <a href="https://www.mongodb.com/" target="_blank"> <img src="./assets/mongodb.svg" align="left" alt="MongoDB" height='42px'/></a>
 <a href="https://www.mysql.com/" target="_blank"> <img src="./assets/mysql-original.svg" align="left" alt="MySQL" height='42px'/></a>
-<a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="./assets/python-original.svg"></a>
 
 <br>
 <br>
   
 ### 📊 Github Stats
 
-![Stats Overview](https://github-readme-stats.vercel.app/api?username=candane&count_private=true&show_icons=true&include_all_commits=true)  
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=candane&hide=TeX&layout=compact)
+![Stats Overview](https://github-readme-stats.vercel.app/api?username=peigoz&count_private=true&show_icons=true&include_all_commits=true)  
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=peigoz&hide=TeX&layout=compact)
   
   
 <!--
