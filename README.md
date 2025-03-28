@@ -4,17 +4,17 @@
   
 ### 📅 Hobbies
 
-🗣️ Engaging with dev communities (DEV.to & juejin.cn)
-📺 Binge-watching anime & tech travel vlogs
-🎮 Casual gaming (Currently hooked on Switch)
-🎧 Coding with lo-fi beats looping
+🗣️ Engaging with dev communities (DEV.to & juejin.cn)  
+📺 Binge-watching anime & tech travel vlogs  
+🎮 Casual gaming (Currently hooked on Switch)  
+🎧 Coding with lo-fi beats looping  
   
 ### 👨💻 ​Current Focus
 
-🌱 Full-time web engineer (Next.js + TypeScript)
-📖 Exploring Rust's ownership model through practice
-🔭 Mastering CS fundamentals: DSA, networks & OS concepts
-🚀 Aiming to build robust full-stack systems
+🌱 Full-time web engineer (Nest.js + TypeScript + Vue or React)  
+📖 Exploring Rust's ownership model through practice  
+🔭 Mastering CS fundamentals: DSA, networks & OS concepts  
+🚀 Aiming to build robust full-stack systems  
   
 ### 🔨 Languages and Tools
 
@@ -36,8 +36,8 @@
   
 ### 📊 Github Stats
 
-![Stats Overview](https://github-readme-stats.vercel.app/api?username=peigoz&count_private=true&show_icons=true&include_all_commits=true)  
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=peigoz&hide=TeX&layout=compact)
+![Stats Overview](https://github-readme-stats.vercel.app/api?username=pejaz&count_private=true&show_icons=true&include_all_commits=true)  
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pejaz&hide=TeX&layout=compact)
   
   
 <!--
