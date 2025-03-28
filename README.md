@@ -4,18 +4,17 @@
   
 ### 📅 Hobbies
 
-- Visit the technical community
-- Watch anime And Travel Video
-- Play videogames
-- Listen to music.
+🗣️ Engaging with dev communities (DEV.to & juejin.cn)
+📺 Binge-watching anime & tech travel vlogs
+🎮 Casual gaming (Currently hooked on Switch)
+🎧 Coding with lo-fi beats looping
   
-### 😄 Talking about Personal Stuffs
+### 👨💻 ​Current Focus
 
-- 🌱 I'm currently into Web Development
-- 📖 Recently reading books on js
-- 🔭 working on my Data Structures and Algorithms
-- 🚀 In the future, I hope to become Full Stack Development.
-- ⚡ Interested in Go and Rust
+🌱 Full-time web engineer (Next.js + TypeScript)
+📖 Exploring Rust's ownership model through practice
+🔭 Mastering CS fundamentals: DSA, networks & OS concepts
+🚀 Aiming to build robust full-stack systems
   
 ### 🔨 Languages and Tools
 
